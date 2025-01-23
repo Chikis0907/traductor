@@ -1,2 +1,0 @@
-# traductor
-pagina web
